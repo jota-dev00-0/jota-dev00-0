@@ -1,63 +1,31 @@
-<h2 align="left">About me / Sobre Mim</h2>
+<h1 align="center">Hi 👋, I'm João Rangel</h1>
+<h3 align="center">A passionate software engineering student with a focus on backend, i'm from Brazil</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jota-dev00-0&label=Profile%20views&color=0e75b6&style=flat" alt="jota-dev00-0" /> </p>
 
-<p align="left">Hello! I'm João-Rangel, a Software Engineering student passionate about building back-end solutions that solve real problems. I've been self-taught for two years. I use Node.js (Express/Fastify), Python (FastAPI), and MySQL—all hosted on AWS. Even without formal experience, I create projects daily to master the art of scalable APIs!<br><br>What drives me?<br>I believe that beautiful code is functional code! That's why I breathe Clean Code and SOLID, while studying design patterns to create efficient back-end architectures. My playground? GitHub—where I version every learning and mistake, striving to improve every day.<br><br>4 Characteristics That Define Me:<br>- Clear and Objective Communication<br>- Teamwork<br>- Resilience<br>- Willingness to Learn<br><br>🚀 Right now, you can find me:<br>→ Building RESTful APIs with Express and Fastify<br>→ Exploring the serverless world on AWS (Lambda, RDS)<br>→ Improving MySQL queries to make everything faster<br>→ Discovering how FastAPI can simplify my Python projects<br><br>When I'm not coding, I immerse myself in Dio courses and tech communities - my goal is to learn 1 new thing a day!<br><br>Let's chat? I'd love to:<br>• Exchange ideas about backend<br>• Share Node.js or Python tips<br>• Collaborate on an open-source project<br>• Have a virtual ☕ while we talk tech<br><br>Olá! Sou João-Rangel, estudante de Engenharia de Software apaixonado por construir soluções back-end que resolvem problemas reais, e sou autodidata há 2 anos. Uso Node.js (Express/Fastify), Python (FastAPI) e MySQL - tudo hospedado na AWS. Mesmo sem experiência formal, crio projetos diariamente para dominar a arte das APIs escaláveis!<br><br>O que me move?<br>Acredito que código bonito é código funcional! Por isso respiro Clean Code e SOLID, enquanto estudo padrões de projeto para criar arquiteturas back-end eficientes. Meu playground? GitHub - onde versiono cada aprendizado e erro, buscando melhorar a cada dia.<br><br>4 características que me Definem:<br>- Comunicação Clara e Objetiva<br>- Trabalho em Equipe<br>- Resiliência<br>- Vontade de Aprender <br><br>🚀 No momento, você me encontra:<br>→ Construindo APIs RESTful com Express e Fastify<br>→ Explorando o mundo serverless na AWS (Lambda, RDS)<br>→ Aperfeiçoando queries em MySQL pra deixar tudo mais rápido<br>→ Descobrindo como FastAPI pode simplificar meus projetos Python<br><br>Quando não estou codando, mergulho em cursos da Dio e comunidades tech - meu objetivo é aprender 1 coisa nova por dia!<br><br>Vamos conversar? Adoraria:<br>• Trocar ideias sobre back-end<br>• Compartilhar dicas de Node.js ou Python<br>• Colaborar em algum projeto open-source<br>• Tomar um ☕ virtual enquanto falamos de tecnologia</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jota-dev00-0" alt="jota-dev00-0" /></a> </p>
 
-###
+- 🌱 I’m currently learning **Spring Framework,RabbitMQ**
 
-<h2 align="left">Stack / Techs</h2>
+- 👨‍💻 All of my projects are available at [on my github](on my github)
 
-###
+- 💬 Ask me about **Java, Spring Boot, Python**
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-</div>
+- 📫 How to reach me **jpar.dev00@gmail.com**
 
-###
+- ⚡ Fun fact **I love listening to music**
 
-<h2 align="left">Stats / Estatísticas</h2>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jo%c3%a3o-rangel000/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3bwskeqtcqq5ujxihntlqvaa%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jo%c3%a3o-rangel000/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3bwskeqtcqq5ujxihntlqvaa%3d%3d" height="30" width="40" /></a>
+</p>
 
-###
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=jota-dev00-0&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jota-dev00-0&show_icons=true&locale=en&layout=compact" alt="jota-dev00-0" /></p>
 
-###
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jota-dev00-0&show_icons=true&locale=en" alt="jota-dev00-0" /></p>
 
-<h2 align="left">Social Media</h2>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jota-dev00-0&" alt="jota-dev00-0" /></p>
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-rangel000/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
