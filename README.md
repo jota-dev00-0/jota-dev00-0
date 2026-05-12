@@ -34,26 +34,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
 </div>
 
-###
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jota-dev00-0/jota-dev00-0/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/jota-dev00-0/jota-dev00-0/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/jota-dev00-0/jota-dev00-0/languages-output/languages.svg" height="150" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/jota-dev00-0/jota-dev00-0/stats-output/stats.svg" height="150" alt="stats graph" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jota-dev00-0/jota-dev00-0/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-  <img src="https://streak-stats.demolab.com?user=jota-dev00-0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/jota-dev00-0/jota-dev00-0/trophy-output/trophy.svg" height="150" alt="trophy graph" />
+  <img src="https://streak-stats.demolab.com?user=jota-dev00-0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/joão-rangel000" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/joão-rangel000" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
-
-###
