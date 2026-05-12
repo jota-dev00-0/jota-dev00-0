@@ -35,15 +35,14 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jota-dev00-0/jota-dev00-0/languages-output/languages.svg" height="150" alt="languages graph" />
-  <img src="https://raw.githubusercontent.com/jota-dev00-0/jota-dev00-0/stats-output/stats.svg" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jota-dev00-0&show_icons=true&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jota-dev00-0&layout=compact&theme=dracula" height="150" alt="languages graph" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jota-dev00-0/jota-dev00-0/trophy-output/trophy.svg" height="150" alt="trophy graph" />
-  <img src="https://streak-stats.demolab.com?user=jota-dev00-0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=jota-dev00-0&theme=dracula" height="150" alt="streak graph" />
 </div>
 
 ###
