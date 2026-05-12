@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning Spring Framework, RabbitMQ<br>- 👨‍💻 All of my projects are available at on my github<br>- 💬 Ask me about Java, Spring Boot, Python<br>- ⚡ Fun fact I love listening to music</p>
+<p align="left">- 🌱 I’m currently learning Spring Framework, RabbitMQ<br>- 👨‍💻 All of my projects are available at on my github<br>- 💬 Ask me about Java, Spring Boot, Python<br>- ⚡ Fun fact, I love listening to music</p>
 
 ###
 
@@ -34,16 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jota-dev00-0&show_icons=true&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jota-dev00-0&layout=compact&theme=dracula" height="150" alt="languages graph" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jota-dev00-0&theme=dracula" height="150" alt="streak graph" />
-</div>
 
 ###
 
