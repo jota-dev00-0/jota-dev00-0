@@ -2,11 +2,11 @@
 
 ###
 
-<h5 align="left">A passionate software engineering student with a focus on backend, i'm from Brazil</h5>
+<h5 align="left">A passionate software engineering student with a focus on fullstack, i'm from Brazil</h5>
 
 ###
 
-<p align="left">- 🌱 I’m currently learning Spring Framework, RabbitMQ<br>- 👨‍💻 All of my projects are available at on my github<br>- 💬 Ask me about Java, Spring Boot, Python<br>- ⚡ Fun fact, I love listening to music</p>
+<p align="left">- 🌱 I’m currently learning Spring Framework, React <br>- 👨‍💻 All of my projects are available at on my github<br>- 💬 Ask me about Java, Spring Boot, Python<br>- ⚡ Fun fact, I love listening to music</p>
 
 ###
 <br>
